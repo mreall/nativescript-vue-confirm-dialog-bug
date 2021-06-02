@@ -43,7 +43,7 @@
     "category-general"
   ],
   "dependencies": {
-    "@nativescript/core": "~8.0.0",
+    "@nativescript/core": "~8.0.7",
     "@nativescript/theme": "~3.0.1",
     "nativescript-vue": "~2.9.0"
   },
@@ -51,7 +51,7 @@
     "@nativescript/ios": "8.0.0",
     "@nativescript/webpack": "beta",
     "nativescript-vue-template-compiler": "~2.9.0",
-    "sass": "^1.32.8"
+    "sass": "^1.34.0"
   },
   "private": "true",
   "readme": "NativeScript Application"
